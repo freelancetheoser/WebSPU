@@ -1,4 +1,4 @@
-<ul class="flex justify-end m-2 space-x-3">
+<ul class="flex justify-end m-2 space-x-5">
     <li>
         <a href="">
             <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-search" viewBox="0 0 16 16">
